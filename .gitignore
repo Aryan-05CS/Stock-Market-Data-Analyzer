@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Editor and environment files
+.vscode/
+.idea/
+.env
+
+# Generated analysis files (retain the output folder with .gitkeep)
+outputs/*
+!outputs/.gitkeep
+!outputs/README.md
+
+# Notebook checkpoints
+.ipynb_checkpoints/
